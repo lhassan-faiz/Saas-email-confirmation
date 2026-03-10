@@ -1,6 +1,5 @@
 # dependencies
 node_modules/
-README.md
 # build output
 dist/
 coverage/
@@ -26,3 +25,6 @@ Thumbs.db
 # local runtime data
 tmp/
 temp/
+
+# docs (local only)
+README.md
